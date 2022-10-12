@@ -1,0 +1,4 @@
+eventStore:
+  storeType: event_store_db
+  config:
+    connectionString: esdb://39.106.4.182:2113?tls=false
